@@ -2,6 +2,6 @@
 
 ## Welcome! 👋
 
-Checkout my solution here: [Live Site](https://dreamy-clarke-3b107d.netlify.app/)  
+Checkout my solution here: [Live Site](https://jolly-agnesi-2fc658.netlify.app)  
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c525fdd7-987f-426d-8455-899b97ba3cdf/deploy-status)](https://app.netlify.com/sites/dreamy-clarke-3b107d/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/216629cf-f5ed-452c-81e7-52165d7e9ba4/deploy-status)](https://app.netlify.com/sites/jolly-agnesi-2fc658/deploys)
