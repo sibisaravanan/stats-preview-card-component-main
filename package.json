@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sibisaravanan/frontend-boilerplate.git"
+    "url": "git+https://github.com/sibisaravanan/stats-preview-card-component-main.git"
   },
   "bugs": {
-    "url": "https://github.com/sibisaravanan/frontend-boilerplate/issues"
+    "url": "https://github.com/sibisaravanan/stats-preview-card-component-main/issues"
   },
-  "homepage": "https://github.com/sibisaravanan/frontend-boilerplate#readme"
+  "homepage": "https://github.com/sibisaravanan/stats-preview-card-component-main#readme"
 }
